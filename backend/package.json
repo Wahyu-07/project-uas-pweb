@@ -1,0 +1,20 @@
+{
+  "name": "website-peminjaman-buku",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "pg": "^8.15.6"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
